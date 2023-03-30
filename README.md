@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Fixed RTDETR GFLOPs bug (#7309)
