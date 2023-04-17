@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Update neural-magic.md (#7347)
