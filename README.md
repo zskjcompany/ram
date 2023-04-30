@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Add docs guide terminal images (#8819)
