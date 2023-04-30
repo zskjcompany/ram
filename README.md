@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add TorchScript Docs Integrations Page (#8501)
