@@ -1,1 +1,1 @@
-ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
+Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
