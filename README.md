@@ -1,1 +1,1 @@
-ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
