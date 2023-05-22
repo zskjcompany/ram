@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+fix val each epoch
