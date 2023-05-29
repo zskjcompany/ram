@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Update format.yml to pull_request_target (#7460)
