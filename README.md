@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
