@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Hold failed upload metrics and upload with next upload metrics (#8513)
