@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
