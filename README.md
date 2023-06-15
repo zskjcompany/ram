@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
