@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Elaborate Train and Predict mode docs arguments (#8137)
