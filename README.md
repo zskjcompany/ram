@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Add HUB-SDK Docs reference section (#7781)
