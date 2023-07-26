@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
