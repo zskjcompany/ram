@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
