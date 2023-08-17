@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
