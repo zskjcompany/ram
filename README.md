@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+ultralytics 8.1.20 add YOLOv8x-World support (#8539)
