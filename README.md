@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Update pyproject.toml and Docs (#7274)
