@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Expand Model method type hinting (#8279)
