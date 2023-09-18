@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
