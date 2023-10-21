@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+New test for labels and crops (#8861)
