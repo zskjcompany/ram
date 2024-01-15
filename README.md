@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
