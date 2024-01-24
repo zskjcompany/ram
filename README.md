@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Explorer with LanceDB, Actions and Docs updates (#7487)
