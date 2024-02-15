@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
