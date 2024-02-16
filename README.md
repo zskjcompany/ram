@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Update Discord and Contributing Guide URLs (#9270)
