@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
