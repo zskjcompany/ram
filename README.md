@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Fix device counting method to account for double-digit device IDs (#8502)
