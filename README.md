@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Explorer with LanceDB, Actions and Docs updates (#7487)
