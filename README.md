@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
