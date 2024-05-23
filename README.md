@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Update Discord and Contributing Guide URLs (#9270)
