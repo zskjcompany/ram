@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Fix device counting method to account for double-digit device IDs (#8502)
