@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Pass callbacks to validator (#7320)
