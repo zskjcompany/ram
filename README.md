@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
