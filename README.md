@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Fix xyxyxyxyn calculation, swap axis (#8249)
