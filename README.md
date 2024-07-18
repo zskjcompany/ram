@@ -1,1 +1,1 @@
-fix non-coco val
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
