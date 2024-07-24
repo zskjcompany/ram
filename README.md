@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+Update Colab notebook for YOLOv8.1 (#8660)
