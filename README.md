@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+docs: update view-results-in-terminal.md (#66)
