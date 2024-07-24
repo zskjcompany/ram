@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
