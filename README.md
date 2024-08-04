@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Segment TensorRT batch=3 fix (#7952)
