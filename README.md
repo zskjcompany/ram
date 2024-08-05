@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Object Counter improvements (#8648)
