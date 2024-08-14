@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Merge pull request #22 from SkalskiP/patch-1
