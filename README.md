@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Fix TypeError in check_cfg() (#9245)
