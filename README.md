@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Update OpenVINO INT8 export (#7515)
