@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Add C++ Classify inference example (#6868)
