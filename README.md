@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add dota8.yaml and O tests (#7394)
