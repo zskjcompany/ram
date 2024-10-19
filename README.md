@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
